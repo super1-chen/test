@@ -1,0 +1,37 @@
+综合服务蜜罐
+
+操作系统：
+centos7蜜罐
+suse12sp3
+windows10
+windows server 2008
+windows7
+
+web类:
+nginx
+zabbix
+邮箱
+jenkins
+dukuwiki
+sugarCRM
+oa
+渗透蜜罐
+discuz
+
+数据库:
+mysql
+mongodb
+redis
+
+中间件:
+ssh低交互留一个
+telnet 高交互
+扫描蜜罐
+samba蜜罐
+openvpn
+ftp
+
+中间件:
+tomcat
+weblogic
+jboss
